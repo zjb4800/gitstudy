@@ -1,3 +1,4 @@
 package com.zjb.git_idea_test;
-public class Hello {
+
+public class Hello3 {
 }
